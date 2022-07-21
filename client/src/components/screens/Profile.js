@@ -25,7 +25,7 @@ const Profile =()=>{
             }}>
                 <div>
                     <img style = {{ width:"160px",height :"160px",borderRadius:"80px"}}
-                    src="https://images.unsplash.com/photo-1555353540-64580b51c258?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGNhcnN8ZW58MHx8MHx8&auto=format&fit=crop&w=1000&q=60"
+                    src={state?state.pic:"loading"}
                     />
                 </div>
                 <div>
