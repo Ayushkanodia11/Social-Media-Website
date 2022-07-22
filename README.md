@@ -8,14 +8,14 @@ Abhay is keen upon having its own personal Social Media Website for him and his 
 ## **TECH STACK**
 
 **Technologies used -**
-Frontend:-
+ Frontend:-
 - React.js
-Backend:-
--Node.js and Express
--Jsonwebtokens
--MongoDB & mongoose
-Dev dependencies:-
--nodemon
+ Backend:-
+- Node.js and Express
+- Jsonwebtokens
+- MongoDB & mongoose
+ Dev dependencies:-
+- Nodemon
 
 ## **PROPOSED FEATURES-**
 
