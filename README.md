@@ -8,11 +8,12 @@ Abhay is keen upon having its own personal Social Media Website for him and his 
 ## **TECH STACK**
 
 **Technologies used -**
-- React.js
-- Node.js and Express
+- JavaScript
+- NodeJs
+- ReactJs and ExpressJs
+- HTML/CSS
 - Jsonwebtokens
-- MongoDB & mongoose
-- Nodemon
+- MongoDB
 
 ## **PROPOSED FEATURES-**
 
@@ -39,3 +40,19 @@ In the server directory, you can run:
 npm start
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
+
+##**Here are the some of the screenshotf from our app.**
+1. **Home Page**
+      ![alt text](https://github.com/Ayushkanodia11/D-j-vu/blob/main/screenshots/home1.jpeg?raw=true)
+      ![alt text](https://github.com/Ayushkanodia11/D-j-vu/blob/main/screenshots/home2.jpeg?raw=true)
+      ![alt text](https://github.com/Ayushkanodia11/D-j-vu/blob/main/screenshots/home3.jpeg?raw=true)
+      ![alt text](https://github.com/Ayushkanodia11/D-j-vu/blob/main/screenshots/home4.jpeg?raw=true)
+    
+2. **Login Page** 
+      ![alt text](https://github.com/Ayushkanodia11/D-j-vu/blob/main/screenshots/login.jpeg?raw=true)
+
+3. **SignUp Page**      
+      ![alt text](https://github.com/Ayushkanodia11/D-j-vu/blob/main/screenshots/register.jpeg?raw=true)
+
+4. **Add post page**
+      ![alt text](https://github.com/Ayushkanodia11/D-j-vu/blob/main/screenshots/generate_report.jpeg?raw=true)
