@@ -1,5 +1,5 @@
 # Social-Media-Website
-A MERN based Social media site.
+A MERN based website that provides several features like posting, commenting, following and profile features.
 
 ## **PROBLEM STATEMENT**
 
@@ -20,13 +20,14 @@ Abhay is keen upon having its own personal Social Media Website for him and his 
 ## **PROPOSED FEATURES-**
 
 - Login/ Signup for user.
-- Uplaod/Update your own profile pic.
-- Posting photos alongwith like and comment options.
-- Follow/Unfollow User.
+- Allows user to maintain its profile.
+- User can create and upload a post.
+- User can like/unlike, comment and delete a post.
+- User can follow and unfollow other users.
   
 ## **ADDITIONAL FEATURES FOR FUTURE PROSPECTS.**
 - Provide chat option among the followers.
--   
+- Allow user to upload videos as well.
 
  ***To run the project on your system-:***
 
