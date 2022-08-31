@@ -8,13 +8,10 @@ Abhay is keen upon having its own personal Social Media Website for him and his 
 ## **TECH STACK**
 
 **Technologies used -**
- Frontend:-
 - React.js
- Backend:-
 - Node.js and Express
 - Jsonwebtokens
 - MongoDB & mongoose
- Dev dependencies:-
 - Nodemon
 
 ## **PROPOSED FEATURES-**
@@ -29,7 +26,7 @@ Abhay is keen upon having its own personal Social Media Website for him and his 
 - Provide chat option among the followers.
 - Allow user to upload videos as well.
 
- ***To run the project on your system-:***
+ **To run the project on your system-:**
 
 - Clone the repo on to your system.
 - Add all the requirements to your system as like the modules and all the libraries.
