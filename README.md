@@ -43,16 +43,14 @@ Open http://localhost:3000 to view it in the browser.
 
 ##**Here are the some of the screenshotf from our app.**
 1. **Home Page**
-      ![alt text](https://github.com/Ayushkanodia11/D-j-vu/blob/main/screenshots/home1.jpeg?raw=true)
-      ![alt text](https://github.com/Ayushkanodia11/D-j-vu/blob/main/screenshots/home2.jpeg?raw=true)
-      ![alt text](https://github.com/Ayushkanodia11/D-j-vu/blob/main/screenshots/home3.jpeg?raw=true)
-      ![alt text](https://github.com/Ayushkanodia11/D-j-vu/blob/main/screenshots/home4.jpeg?raw=true)
+      ![alt text](https://github.com/Ayushkanodia11/Social-Media-Website/blob/master/ss/Screenshot%20(11).png)
+      ![alt text](https://github.com/Ayushkanodia11/Social-Media-Website/blob/master/ss/Screenshot%20(12).png)
     
 2. **Login Page** 
-      ![alt text](https://github.com/Ayushkanodia11/D-j-vu/blob/main/screenshots/login.jpeg?raw=true)
+      ![alt text](https://github.com/Ayushkanodia11/Social-Media-Website/blob/master/ss/Screenshot%20(14).png)
 
 3. **SignUp Page**      
-      ![alt text](https://github.com/Ayushkanodia11/D-j-vu/blob/main/screenshots/register.jpeg?raw=true)
+      ![alt text](https://github.com/Ayushkanodia11/Social-Media-Website/blob/master/ss/Screenshot%20(15).png)
 
 4. **Add post page**
-      ![alt text](https://github.com/Ayushkanodia11/D-j-vu/blob/main/screenshots/generate_report.jpeg?raw=true)
+      ![alt text](https://github.com/Ayushkanodia11/Social-Media-Website/blob/master/ss/Screenshot%20(13).png)
