@@ -30,18 +30,19 @@ Abhay is keen upon having its own personal Social Media Website for him and his 
  **To run the project on your system-:**
 
 - Clone the repo on to your system.
-- Add all the requirements to your system as like the modules and all the libraries.
-- You can use a virtual environment if you want to keep your development environment seperate.
+- Run npm install to download the required modules.
+
 - To run server side:
 In the server directory, you can run:
 nodemon app
+
 - To run client side:
 In the server directory, you can run:
 npm start
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
 
-##**Here are the some of the screenshotf from our app.**
+##**Here are the some of the screenshots from our app.**
 1. **Home Page**
       ![alt text](https://github.com/Ayushkanodia11/Social-Media-Website/blob/master/ss/Screenshot%20(11).png)
       ![alt text](https://github.com/Ayushkanodia11/Social-Media-Website/blob/master/ss/Screenshot%20(12).png)
